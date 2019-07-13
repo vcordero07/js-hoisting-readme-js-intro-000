@@ -27,7 +27,7 @@
   "homepage": "https://github.com/learn-co-curriculum/js-hoisting-readme#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "chai-spies": "^0.7.1",
+    "chai-spies": "^1.0.0",
     "jsdom": "^8.5.0",
     "mocha": "^2.4.5",
     "mocha-jsdom": "^1.1.0",
